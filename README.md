@@ -14,13 +14,12 @@ I am a fullstack software engineer from bangladesh
 ## Expertise
 <br>
 <br>
-<br>
-<br>
+
 <img align="left" alt="C#" src="https://res.cloudinary.com/practicaldev/image/fetch/s--IMy76vSA--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/33/csharp-badge.png" width="100" height="100" />
 <img align="left" alt=".netcore" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="100" height="100" />
 <img align="left" alt="sql" src="https://juststickers.in/wp-content/uploads/2019/01/sql-emblem-bleed-badge.png" width="100" height="100" />
 <img align="left" alt="mongodb" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-mongodb/events/mon.png" width="100" height="100" />
 <img align="left" alt="angular" src="https://www.mbejda.com/content/images/2017/08/AngularJS-Shield.svg" width="100" height="100"/>
-<a href="https://www.credly.com/badges/11b2cc84-5140-46f9-8d21-e4fb12ee504f/linked_in"><img align="left" alt="az900" src="https://images.credly.com/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png" width="100" height="100" />
+<a href="https://www.credly.com/badges/11b2cc84-5140-46f9-8d21-e4fb12ee504f/linked_in"><img align="left" alt="az900" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpCQMBSXAocTZxGKxiONxqnd3MsUvvb9kwzxgmGhXZIq2z_7r9ELlRm8eTACNF_a6iphA&usqp=CAU" width="100" height="100" />
 <br>
 <br>
