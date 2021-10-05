@@ -12,10 +12,11 @@ I am a fullstack software engineer from bangladesh
 <br>
 <br>
 ## Expertise
+<br>
 <img align="left" alt="C#" src="https://res.cloudinary.com/practicaldev/image/fetch/s--IMy76vSA--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/33/csharp-badge.png" width="100" height="100" />
 <img align="left" alt=".netcore" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="100" height="100" />
-<img align="left" alt="sql" src="https://www.vhv.rs/dpng/d/256-2563210_sql-programming-language-logo-hd-png-download.png" width="100" height="100" />
-<img align="left" alt="mongodb" src="https://www.nicepng.com/png/detail/868-8686277_mongo-db-badge-sticker-mongodb.png" width="100" height="100" />
+<img align="left" alt="sql" src="https://e7.pngegg.com/pngimages/28/601/png-clipart-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-thumbnail.png" width="100" height="100" />
+<img align="left" alt="mongodb" src="https://spng.subpng.com/20190328/pka/kisspng-mongodb-document-oriented-database-nosql-json-wilix-development-company-5c9d933b8f5c36.0965161815538307155872.jpg" width="100" height="100" />
 <img align="left" alt="angular" src="https://juststickers.in/wp-content/uploads/2017/11/angular-original-badge.png" width="100" height="100"/>
 <a href="https://www.credly.com/badges/11b2cc84-5140-46f9-8d21-e4fb12ee504f/linked_in"><img align="left" alt="az900" src="https://images.credly.com/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png" width="100" height="100" />
 <br>
