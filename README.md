@@ -17,7 +17,7 @@ I am a .Net developer from Sofia, Bulgaria, curently residing in Berlin, Germany
 <br>
 
 [<img align="left" alt="C#" src="https://res.cloudinary.com/practicaldev/image/fetch/s--IMy76vSA--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/33/csharp-badge.png" width="100" height="100" />](url)
-<img align="left" alt=".netcore" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="100" height="100" />
+<a href=''><img align="left" alt=".netcore" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="100" height="100" /></a>
 <img align="left" alt="sql" src="https://juststickers.in/wp-content/uploads/2019/01/sql-emblem-bleed-badge.png" width="100" height="100" />
 <img align="left" alt="mongodb" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-mongodb/events/mon.png" width="100" height="100" />
 <img align="left" alt="angular" src="https://www.mbejda.com/content/images/2017/08/AngularJS-Shield.svg" width="100" height="100"/>
