@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am a .Net developer from Sofia, Bulgaria, curently residing in Berlin, Germany
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
+- 🔭 Working on multiple backend and frotnend projects at the moment
 - 🌱 Really passionate about Domain Driven Design, Microservices and Design Patterns
 <br>
 ## Connect with me
