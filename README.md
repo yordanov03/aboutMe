@@ -20,6 +20,6 @@ I am a .Net developer from Sofia, Bulgaria, curently residing in Berlin, Germany
 <img align="left" alt="sql" src="https://juststickers.in/wp-content/uploads/2019/01/sql-emblem-bleed-badge.png" width="100" height="100" />
 <img align="left" alt="mongodb" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2,f_auto,g_center,q_auto:good/v1/gcs/platform-data-mongodb/events/mon.png" width="100" height="100" />
 <img align="left" alt="angular" src="https://www.mbejda.com/content/images/2017/08/AngularJS-Shield.svg" width="100" height="100"/>
-<a href="https://www.credly.com/badges/11b2cc84-5140-46f9-8d21-e4fb12ee504f/linked_in"><img align="left" alt="az900" src="https://www.pngitem.com/pimgs/m/299-2995052_microsoft-certified-azure-fundamentals-badge-microsoft-365-fundamentals.png" width="100" height="100" />
+<a href="https://www.credly.com/badges/11b2cc84-5140-46f9-8d21-e4fb12ee504f/linked_in"><img align="left" alt="az900" src="https://www.pikpng.com/pngl/m/536-5365012_az-900-microsoft-azure-fundamentals-az-900-certification.png" width="100" height="100" />
 <br>
 <br>
