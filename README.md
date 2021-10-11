@@ -10,12 +10,12 @@ I am a .Net developer from Sofia, Bulgaria, curently residing in Berlin, Germany
 ##Most used languages
 <br>
 <br>
+
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yordanov03&layout=compact)](https://github.com/yordanov03/github-readme-stats)
 <br>
 <br>
 
 ## Connect with me
-<br>
 <br>
 <a href="https://www.linkedin.com/in/svetoslav-yordanov003/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.facebook.com/svetoslav.yordanov.003/"><img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
@@ -24,7 +24,6 @@ I am a .Net developer from Sofia, Bulgaria, curently residing in Berlin, Germany
 <br>
 
 ## Expertise
-<br>
 <br>
 
 [<img align="left" alt="C#" src="https://res.cloudinary.com/practicaldev/image/fetch/s--IMy76vSA--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/33/csharp-badge.png" width="100" height="100" />](url)
