@@ -22,6 +22,7 @@ I am a .Net developer from Sofia, Bulgaria, curently residing in Berlin, Germany
 
 <br>
 <br>
+
 ## Expertise
 <br>
 <br>
