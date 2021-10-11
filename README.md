@@ -24,3 +24,5 @@ I am a .Net developer from Sofia, Bulgaria, curently residing in Berlin, Germany
 <a href="https://www.credly.com/badges/11b2cc84-5140-46f9-8d21-e4fb12ee504f/linked_in"><img align="left" alt="az900" src="https://eadn-wc03-4064062.nxedge.io/cdn/wp-content/uploads/2020/06/AI_Fundamentals-min.png" width="100" height="100" />
 <br>
 <br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yordanov03&layout=compact)](https://github.com/yordanov03/github-readme-stats)
+
