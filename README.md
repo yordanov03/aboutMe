@@ -2,7 +2,6 @@
 I am a .Net developer from Sofia, Bulgaria, curently residing in Berlin, Germany
 - 🔭 Working on multiple backend and frotnend projects at the moment
 - 🌱 Really passionate about Domain Driven Design, Microservices and Design Patterns
-<br>
 
 <br>
 <br>
@@ -20,7 +19,6 @@ I am a .Net developer from Sofia, Bulgaria, curently residing in Berlin, Germany
 <a href="https://www.linkedin.com/in/svetoslav-yordanov003/"><img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.facebook.com/svetoslav.yordanov.003/"><img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="https://yordanov03.github.io/"><img align="left" alt="medium" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/40cc3ff7-f1a2-42d4-8b44-f71ffee15b43/d8p3bwt-7f81edf7-e9a1-4093-8e79-cf06eb4f0108.png" width="130" height="29"></a>
-
 
 <br>
 <br>
