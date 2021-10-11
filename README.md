@@ -25,6 +25,8 @@ I am a .Net developer from Sofia, Bulgaria, curently residing in Berlin, Germany
 <br>
 <br>
   
-  ##Most used languages
+<div>
+    ##Most used languages
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yordanov03&layout=compact)](https://github.com/yordanov03/github-readme-stats)
+  </div>
 
