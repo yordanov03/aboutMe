@@ -9,7 +9,7 @@ I am a .Net developer from Sofia, Bulgaria, curently residing in Berlin, Germany
 ##Most used languages
 <br>
 <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yordanov03&layout=compact)](https://github.com/yordanov03/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yordanov03&layout=compact)](https://github.com/yordanov03/github-readme-stats)
   
 <br>
 <br>
