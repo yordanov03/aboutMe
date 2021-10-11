@@ -6,9 +6,9 @@ I am a .Net developer from Sofia, Bulgaria, curently residing in Berlin, Germany
 - 🔭 Working on multiple backend and frotnend projects at the moment
 - 🌱 Really passionate about Domain Driven Design, Microservices and Design Patterns
 <br>
+<br>
 
 ##Most used languages
-<br>
 <br>
 
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yordanov03&layout=compact)](https://github.com/yordanov03/github-readme-stats)
