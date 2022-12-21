@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-I am a .Net developer from Sofia, Bulgaria, curently residing in Berlin, Germany
+I am a .Net developer from Sofia, Bulgaria, curently residing in Zurich, Switzerland
 - 🔭 Working on multiple backend and frotnend projects at the moment
 - 🌱 Really passionate about Domain Driven Design, Microservices and Design Patterns
 <br>
