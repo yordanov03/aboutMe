@@ -21,7 +21,6 @@ I am a .Net developer from Sofia, Bulgaria, curently residing in Zurich, Switzer
 ## Expertise
 <br>
 
-[<img align="left" alt="C#" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" width="100" height="100" />](url)
 <a href=''><img align="left" alt=".netcore" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="100" height="100" /></a>
 <a href=''><img align="left" alt="sql" src="https://juststickers.in/wp-content/uploads/2019/01/sql-emblem-bleed-badge.png" width="100" height="100" /></a>
 <a href=''><img align="left" alt="mongodb" src="https://cyclr.com/wp-content/uploads/2022/03/ext-553.png" width="100" height="100" /></a>
